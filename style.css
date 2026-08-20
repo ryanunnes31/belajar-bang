@@ -1,0 +1,15 @@
+ .crop {width: 200px;
+ }
+body{
+    background-color: lightblue;
+}
+h2{
+    size: 50;
+}
+h2{ 
+    color: rgb(24, 0, 132);
+}
+
+.body .img{
+    width: 50px;
+}
